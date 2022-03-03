@@ -1,5 +1,5 @@
 const drawBarChart = (data, options, element) => {
-
+  return;
 };
 
-module.exports = drawBarChart
+module.exports = drawBarChart;
